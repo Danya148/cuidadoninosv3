@@ -1,0 +1,14 @@
+{
+    "name": "danya/cuidadoninos",
+    "description": "Negocio web",
+    "authors": [
+        {
+            "name": "Danya Contreras",
+            "email": "danyagomes028@outlook.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^8.14",
+        "illuminate/events": "^8.14"
+    }
+}
